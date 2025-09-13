@@ -1,0 +1,17 @@
+Reference,Qty,Value,DNP,Exclude from BOM,Exclude from Board,Footprint,Part Number ,Manufacturer,Datasheet
+CBOOT1,1,100nF 50V,,,,Capacitor_SMD:C_0603_1608Metric,GRM188R71H104KA93D,Murata,~
+CFF1,1,33pF,,,,Capacitor_SMD:C_0603_1608Metric,C0603C330J5GACTU,KEMET,~
+CIN1,1,4.7uF,,,,Capacitor_SMD:C_1210_3225Metric,GRM32ER71H475KA12L,Murata,~
+CIN2,1,100nF,,,,Capacitor_SMD:C_1210_3225Metric,C3216X7R1H104K160AB,TDK,~
+COUT1,1,16V 47uF,,,,Capacitor_SMD:C_1206_3216Metric,GRM31CR61C476KE15L,Murata,~
+COUT2,1,16V 33uF,,,,Capacitor_SMD:C_1206_3216Metric,GRM31CR61C336KE15L,Murata,~
+"H1,H2,H3,H4",4,MH,,Excluded from BOM,,MountingHole:MountingHole_2.7mm_M2.5_Pad_Via,None ,None,~
+"J1,J2",2,Conn_01x02_Socket,,,,TerminalBlock:TerminalBlock_Xinya_XY308-2.54-2P_1x02_P2.54mm_Horizontal,XY308-2.54-2P,Xinya,~
+LOUT1,1,10uH,,,,Inductor_SMD:L_Wuerth_HCI-1040,HCL-1040,Wurth,~
+"RBOOT1,REN1",2,0,,,,Resistor_SMD:R_0603_1608Metric,CRCW06030000Z0EA,Vishay,~
+RFBB1,1,12.1k,,,,Resistor_SMD:R_0603_1608Metric,CRCW060312K1FKEA,Vishay,~
+RFBT1,1,100K,,,,Resistor_SMD:R_0603_1608Metric,RC0603FR-07100KL,Yageo,~
+RFF1,1,1k,,,,Resistor_SMD:R_0603_1608Metric,RC0603FR-071KL,Yageo,~
+SWTest1,1,5019,,,,TestPoint:TestPoint_Keystone_5019_Miniature,5019,Keystone,~
+U1,1,LMR51450SDRRR,,,,LMR51450SDRRR:CONV_LMR51450SDRRR,LMR51450SDRRR,Texas Instruments,https://www.ti.com/lit/ds/symlink/lmr51440.pdf
+"VIN1,VOUT1",2,5129,,,,TestPoint:TestPoint_Keystone_5019_Miniature,5129,,~
